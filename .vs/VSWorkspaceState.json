@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\src",
+    "\\src\\actions",
+    "\\src\\api",
+    "\\src\\components",
+    "\\src\\containers",
+    "\\src\\reducers",
+    "\\src\\sagas",
+    "\\src\\services"
+  ],
+  "SelectedNode": "\\src\\reducers\\vehiclesReducer.js",
+  "PreviewInSolutionExplorer": false
+}
